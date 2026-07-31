@@ -3,6 +3,9 @@ data/*
 !data/.gitkeep
 results/*
 !results/.gitkeep
+!results/README.md
+!results/classical_summary.csv
+!results/classical_per_image.csv
 
 # Trained MATLAB models
 *.mat
@@ -16,4 +19,3 @@ codegen/
 # Operating system files
 .DS_Store
 Thumbs.db
-
